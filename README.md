@@ -5,7 +5,13 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,shadcn,node,express,mongodb,postgres,ts,js,git,python,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,bootstrap,tailwind,materialui,sass,nodejs,express,mongodb,fastapi,postgres,git,python,firebase,redis,redux,pinia,npm" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vite,replit,postman,sequelize,,docker,notion,vim" />
+  </a>
 </p>
 
 ---
