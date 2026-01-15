@@ -5,7 +5,7 @@
 <h3 align="center">💻 Technical Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,bootstrap,tailwind,materialui,sass,nodejs,express,mongodb,postgres,sequelize,python,fastapi,firebase,redis,redux,pinia,npm,postman,docker,git,vite,replit,notion" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,bootstrap,tailwind,materialui,sass,nodejs,express,mongodb,postgres,sequelize,python,fastapi,prisma,firebase,redis,redux,pinia,npm,postman,docker,git,vite,replit,netlify" />
   </a>
 </p>
 
